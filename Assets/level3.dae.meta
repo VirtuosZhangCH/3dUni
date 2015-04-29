@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 4956093b218198849a1ec83cb460bac6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCylinder4
+    100004: pCylinder5
+    100006: pCylinder6
+    100008: pCylinder7
+    100010: SM_MC_belltower2
+    100012: SM_mc_belltower_far
+    100014: SM_mc_belltower_far 1
+    100016: SM_MC_church_terrain02
+    400000: //RootNode
+    400002: pCylinder4
+    400004: pCylinder5
+    400006: pCylinder6
+    400008: pCylinder7
+    400010: SM_MC_belltower2
+    400012: SM_mc_belltower_far
+    400014: SM_mc_belltower_far 1
+    400016: SM_MC_church_terrain02
+    2300000: pCylinder4
+    2300002: pCylinder5
+    2300004: pCylinder6
+    2300006: pCylinder7
+    2300008: SM_MC_belltower2
+    2300010: SM_mc_belltower_far
+    2300012: SM_mc_belltower_far 1
+    2300014: SM_MC_church_terrain02
+    3300000: pCylinder4
+    3300002: pCylinder5
+    3300004: pCylinder6
+    3300006: pCylinder7
+    3300008: SM_MC_belltower2
+    3300010: SM_mc_belltower_far
+    3300012: SM_mc_belltower_far 1
+    3300014: SM_MC_church_terrain02
+    4300000: SM_MC_church_terrain02
+    4300002: SM_mc_belltower_far
+    4300004: SM_mc_belltower_far
+    4300006: SM_MC_belltower2
+    4300008: pCylinder4
+    4300010: pCylinder5
+    4300012: pCylinder6
+    4300014: pCylinder7
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

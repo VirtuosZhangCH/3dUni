@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: ba5b3eedbaa7d5442a45a94f497d873a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Wii_Rex
+    100004: Wii_Skin_Clothing1_01
+    100006: Wii_Skin_Clothing1_02
+    100008: Wii_Skin_Clothing1_03
+    100010: Wii_Skin_Clothing2_01
+    100012: Wii_Skin_Clothing2_02
+    100014: Wii_Skin_Clothing2_03
+    100016: Wii_Skin_Clothing3_01
+    100018: Wii_Skin_Clothing3_02
+    100020: Wii_Skin_Clothing3_03
+    100022: Wii_Skin_Clothing4_01
+    100024: Wii_Skin_Clothing4_02
+    100026: Wii_Skin_Clothing4_03
+    100028: Wii_Skin_head
+    100030: Wii_Skin_hip
+    100032: Wii_Skin_L_ankle
+    100034: Wii_Skin_L_forearm
+    100036: Wii_Skin_L_Forefinger1
+    100038: Wii_Skin_L_Forefinger2
+    100040: Wii_Skin_L_Forefinger3
+    100042: Wii_Skin_L_hand
+    100044: Wii_Skin_L_leg
+    100046: Wii_Skin_L_link_rotation
+    100048: Wii_Skin_L_Littlefinger1
+    100050: Wii_Skin_L_Littlefinger2
+    100052: Wii_Skin_L_Littlefinger3
+    100054: Wii_Skin_L_Middlefinger1
+    100056: Wii_Skin_L_Middlefinger2
+    100058: Wii_Skin_L_Middlefinger3
+    100060: Wii_Skin_L_Ringfinger1
+    100062: Wii_Skin_L_Ringfinger2
+    100064: Wii_Skin_L_Ringfinger3
+    100066: Wii_Skin_L_shoulder
+    100068: Wii_Skin_L_thumb1
+    100070: Wii_Skin_L_thumb2
+    100072: Wii_Skin_L_thumb3
+    100074: Wii_Skin_L_upperarm
+    100076: Wii_Skin_L_upperleg
+    100078: Wii_Skin_neck
+    100080: Wii_Skin_pb_hip
+    100082: Wii_Skin_pb_L_ankle
+    100084: Wii_Skin_pb_L_ball
+    100086: Wii_Skin_pb_L_ball_end
+    100088: Wii_Skin_pb_L_leg
+    100090: Wii_Skin_pb_L_leg1
+    100092: Wii_Skin_pb_L_leg_down
+    100094: Wii_Skin_pb_L_leg_up
+    100096: Wii_Skin_pb_L_upperleg
+    100098: Wii_Skin_pb_R_ankle
+    100100: Wii_Skin_pb_R_ball
+    100102: Wii_Skin_pb_R_ball_end
+    100104: Wii_Skin_pb_R_leg
+    100106: Wii_Skin_pb_R_leg1
+    100108: Wii_Skin_pb_R_leg_down
+    100110: Wii_Skin_pb_R_leg_up
+    100112: Wii_Skin_pb_R_upperleg
+    100114: Wii_Skin_Punk_Buster
+    100116: Wii_Skin_R_ankle
+    100118: Wii_Skin_R_forearm
+    100120: Wii_Skin_R_Forefinger1
+    100122: Wii_Skin_R_Forefinger2
+    100124: Wii_Skin_R_Forefinger3
+    100126: Wii_Skin_R_hand
+    100128: Wii_Skin_R_leg
+    100130: Wii_Skin_R_link_rotation
+    100132: Wii_Skin_R_Middlefinger1
+    100134: Wii_Skin_R_Middlefinger2
+    100136: Wii_Skin_R_Middlefinger3
+    100138: Wii_Skin_R_Ringfinger1
+    100140: Wii_Skin_R_Ringfinger2
+    100142: Wii_Skin_R_Ringfinger3
+    100144: Wii_Skin_R_Rittlefinger1
+    100146: Wii_Skin_R_Rittlefinger2
+    100148: Wii_Skin_R_Rittlefinger3
+    100150: Wii_Skin_R_shoulder
+    100152: Wii_Skin_R_thumb1
+    100154: Wii_Skin_R_thumb2
+    100156: Wii_Skin_R_thumb3
+    100158: Wii_Skin_R_upperarm
+    100160: Wii_Skin_R_upperleg
+    100162: Wii_Skin_Rex_Mesh
+    100164: Wii_Skin_root_rex
+    100166: Wii_Skin_spine
+    100168: Wii_Skin_spine1
+    100170: Wii_Skin_spine2
+    400000: //RootNode
+    400002: Wii_Rex
+    400004: Wii_Skin_Clothing1_01
+    400006: Wii_Skin_Clothing1_02
+    400008: Wii_Skin_Clothing1_03
+    400010: Wii_Skin_Clothing2_01
+    400012: Wii_Skin_Clothing2_02
+    400014: Wii_Skin_Clothing2_03
+    400016: Wii_Skin_Clothing3_01
+    400018: Wii_Skin_Clothing3_02
+    400020: Wii_Skin_Clothing3_03
+    400022: Wii_Skin_Clothing4_01
+    400024: Wii_Skin_Clothing4_02
+    400026: Wii_Skin_Clothing4_03
+    400028: Wii_Skin_head
+    400030: Wii_Skin_hip
+    400032: Wii_Skin_L_ankle
+    400034: Wii_Skin_L_forearm
+    400036: Wii_Skin_L_Forefinger1
+    400038: Wii_Skin_L_Forefinger2
+    400040: Wii_Skin_L_Forefinger3
+    400042: Wii_Skin_L_hand
+    400044: Wii_Skin_L_leg
+    400046: Wii_Skin_L_link_rotation
+    400048: Wii_Skin_L_Littlefinger1
+    400050: Wii_Skin_L_Littlefinger2
+    400052: Wii_Skin_L_Littlefinger3
+    400054: Wii_Skin_L_Middlefinger1
+    400056: Wii_Skin_L_Middlefinger2
+    400058: Wii_Skin_L_Middlefinger3
+    400060: Wii_Skin_L_Ringfinger1
+    400062: Wii_Skin_L_Ringfinger2
+    400064: Wii_Skin_L_Ringfinger3
+    400066: Wii_Skin_L_shoulder
+    400068: Wii_Skin_L_thumb1
+    400070: Wii_Skin_L_thumb2
+    400072: Wii_Skin_L_thumb3
+    400074: Wii_Skin_L_upperarm
+    400076: Wii_Skin_L_upperleg
+    400078: Wii_Skin_neck
+    400080: Wii_Skin_pb_hip
+    400082: Wii_Skin_pb_L_ankle
+    400084: Wii_Skin_pb_L_ball
+    400086: Wii_Skin_pb_L_ball_end
+    400088: Wii_Skin_pb_L_leg
+    400090: Wii_Skin_pb_L_leg1
+    400092: Wii_Skin_pb_L_leg_down
+    400094: Wii_Skin_pb_L_leg_up
+    400096: Wii_Skin_pb_L_upperleg
+    400098: Wii_Skin_pb_R_ankle
+    400100: Wii_Skin_pb_R_ball
+    400102: Wii_Skin_pb_R_ball_end
+    400104: Wii_Skin_pb_R_leg
+    400106: Wii_Skin_pb_R_leg1
+    400108: Wii_Skin_pb_R_leg_down
+    400110: Wii_Skin_pb_R_leg_up
+    400112: Wii_Skin_pb_R_upperleg
+    400114: Wii_Skin_Punk_Buster
+    400116: Wii_Skin_R_ankle
+    400118: Wii_Skin_R_forearm
+    400120: Wii_Skin_R_Forefinger1
+    400122: Wii_Skin_R_Forefinger2
+    400124: Wii_Skin_R_Forefinger3
+    400126: Wii_Skin_R_hand
+    400128: Wii_Skin_R_leg
+    400130: Wii_Skin_R_link_rotation
+    400132: Wii_Skin_R_Middlefinger1
+    400134: Wii_Skin_R_Middlefinger2
+    400136: Wii_Skin_R_Middlefinger3
+    400138: Wii_Skin_R_Ringfinger1
+    400140: Wii_Skin_R_Ringfinger2
+    400142: Wii_Skin_R_Ringfinger3
+    400144: Wii_Skin_R_Rittlefinger1
+    400146: Wii_Skin_R_Rittlefinger2
+    400148: Wii_Skin_R_Rittlefinger3
+    400150: Wii_Skin_R_shoulder
+    400152: Wii_Skin_R_thumb1
+    400154: Wii_Skin_R_thumb2
+    400156: Wii_Skin_R_thumb3
+    400158: Wii_Skin_R_upperarm
+    400160: Wii_Skin_R_upperleg
+    400162: Wii_Skin_Rex_Mesh
+    400164: Wii_Skin_root_rex
+    400166: Wii_Skin_spine
+    400168: Wii_Skin_spine1
+    400170: Wii_Skin_spine2
+    4300000: Wii_Skin_Rex_Mesh
+    4300002: Wii_Skin_Punk_Buster
+    7400000: jum
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Wii_Skin_Punk_Buster
+    13700002: Wii_Skin_Rex_Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: jum
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Wii_Rex
+        weight: 1
+      - path: Wii_Skin_Punk_Buster
+        weight: 1
+      - path: Wii_Skin_Rex_Mesh
+        weight: 1
+      - path: Wii_Skin_root_rex
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_L_upperleg
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_L_upperleg/Wii_Skin_L_leg
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_L_upperleg/Wii_Skin_L_leg/Wii_Skin_L_ankle
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip/Wii_Skin_pb_L_upperleg
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip/Wii_Skin_pb_L_upperleg/Wii_Skin_pb_L_leg
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip/Wii_Skin_pb_L_upperleg/Wii_Skin_pb_L_leg/Wii_Skin_pb_L_ankle
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip/Wii_Skin_pb_L_upperleg/Wii_Skin_pb_L_leg/Wii_Skin_pb_L_ankle/Wii_Skin_pb_L_ball
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip/Wii_Skin_pb_L_upperleg/Wii_Skin_pb_L_leg/Wii_Skin_pb_L_ankle/Wii_Skin_pb_L_ball/Wii_Skin_pb_L_ball_end
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip/Wii_Skin_pb_L_upperleg/Wii_Skin_pb_L_leg/Wii_Skin_pb_L_leg1
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip/Wii_Skin_pb_L_upperleg/Wii_Skin_pb_L_leg/Wii_Skin_pb_L_leg_down
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip/Wii_Skin_pb_L_upperleg/Wii_Skin_pb_L_leg/Wii_Skin_pb_L_leg_up
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip/Wii_Skin_pb_R_upperleg
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip/Wii_Skin_pb_R_upperleg/Wii_Skin_pb_R_leg
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip/Wii_Skin_pb_R_upperleg/Wii_Skin_pb_R_leg/Wii_Skin_pb_R_ankle
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip/Wii_Skin_pb_R_upperleg/Wii_Skin_pb_R_leg/Wii_Skin_pb_R_ankle/Wii_Skin_pb_R_ball
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip/Wii_Skin_pb_R_upperleg/Wii_Skin_pb_R_leg/Wii_Skin_pb_R_ankle/Wii_Skin_pb_R_ball/Wii_Skin_pb_R_ball_end
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip/Wii_Skin_pb_R_upperleg/Wii_Skin_pb_R_leg/Wii_Skin_pb_R_leg1
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip/Wii_Skin_pb_R_upperleg/Wii_Skin_pb_R_leg/Wii_Skin_pb_R_leg_down
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_pb_hip/Wii_Skin_pb_R_upperleg/Wii_Skin_pb_R_leg/Wii_Skin_pb_R_leg_up
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_R_upperleg
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_R_upperleg/Wii_Skin_R_leg
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_R_upperleg/Wii_Skin_R_leg/Wii_Skin_R_ankle
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_Clothing1_01
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_Clothing1_01/Wii_Skin_Clothing1_02
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_Clothing1_01/Wii_Skin_Clothing1_02/Wii_Skin_Clothing1_03
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_Clothing2_01
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_Clothing2_01/Wii_Skin_Clothing2_02
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_Clothing2_01/Wii_Skin_Clothing2_02/Wii_Skin_Clothing2_03
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_Clothing3_01
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_Clothing3_01/Wii_Skin_Clothing3_02
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_Clothing3_01/Wii_Skin_Clothing3_02/Wii_Skin_Clothing3_03
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_Clothing4_01
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_Clothing4_01/Wii_Skin_Clothing4_02
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_Clothing4_01/Wii_Skin_Clothing4_02/Wii_Skin_Clothing4_03
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm/Wii_Skin_L_hand
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm/Wii_Skin_L_hand/Wii_Skin_L_Forefinger1
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm/Wii_Skin_L_hand/Wii_Skin_L_Forefinger1/Wii_Skin_L_Forefinger2
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm/Wii_Skin_L_hand/Wii_Skin_L_Forefinger1/Wii_Skin_L_Forefinger2/Wii_Skin_L_Forefinger3
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm/Wii_Skin_L_hand/Wii_Skin_L_Littlefinger1
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm/Wii_Skin_L_hand/Wii_Skin_L_Littlefinger1/Wii_Skin_L_Littlefinger2
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm/Wii_Skin_L_hand/Wii_Skin_L_Littlefinger1/Wii_Skin_L_Littlefinger2/Wii_Skin_L_Littlefinger3
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm/Wii_Skin_L_hand/Wii_Skin_L_Middlefinger1
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm/Wii_Skin_L_hand/Wii_Skin_L_Middlefinger1/Wii_Skin_L_Middlefinger2
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm/Wii_Skin_L_hand/Wii_Skin_L_Middlefinger1/Wii_Skin_L_Middlefinger2/Wii_Skin_L_Middlefinger3
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm/Wii_Skin_L_hand/Wii_Skin_L_Ringfinger1
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm/Wii_Skin_L_hand/Wii_Skin_L_Ringfinger1/Wii_Skin_L_Ringfinger2
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm/Wii_Skin_L_hand/Wii_Skin_L_Ringfinger1/Wii_Skin_L_Ringfinger2/Wii_Skin_L_Ringfinger3
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm/Wii_Skin_L_hand/Wii_Skin_L_thumb1
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm/Wii_Skin_L_hand/Wii_Skin_L_thumb1/Wii_Skin_L_thumb2
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_L_shoulder/Wii_Skin_L_link_rotation/Wii_Skin_L_upperarm/Wii_Skin_L_forearm/Wii_Skin_L_hand/Wii_Skin_L_thumb1/Wii_Skin_L_thumb2/Wii_Skin_L_thumb3
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_neck
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_neck/Wii_Skin_head
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm/Wii_Skin_R_hand
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm/Wii_Skin_R_hand/Wii_Skin_R_Forefinger1
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm/Wii_Skin_R_hand/Wii_Skin_R_Forefinger1/Wii_Skin_R_Forefinger2
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm/Wii_Skin_R_hand/Wii_Skin_R_Forefinger1/Wii_Skin_R_Forefinger2/Wii_Skin_R_Forefinger3
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm/Wii_Skin_R_hand/Wii_Skin_R_Middlefinger1
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm/Wii_Skin_R_hand/Wii_Skin_R_Middlefinger1/Wii_Skin_R_Middlefinger2
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm/Wii_Skin_R_hand/Wii_Skin_R_Middlefinger1/Wii_Skin_R_Middlefinger2/Wii_Skin_R_Middlefinger3
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm/Wii_Skin_R_hand/Wii_Skin_R_Ringfinger1
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm/Wii_Skin_R_hand/Wii_Skin_R_Ringfinger1/Wii_Skin_R_Ringfinger2
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm/Wii_Skin_R_hand/Wii_Skin_R_Ringfinger1/Wii_Skin_R_Ringfinger2/Wii_Skin_R_Ringfinger3
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm/Wii_Skin_R_hand/Wii_Skin_R_Rittlefinger1
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm/Wii_Skin_R_hand/Wii_Skin_R_Rittlefinger1/Wii_Skin_R_Rittlefinger2
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm/Wii_Skin_R_hand/Wii_Skin_R_Rittlefinger1/Wii_Skin_R_Rittlefinger2/Wii_Skin_R_Rittlefinger3
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm/Wii_Skin_R_hand/Wii_Skin_R_thumb1
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm/Wii_Skin_R_hand/Wii_Skin_R_thumb1/Wii_Skin_R_thumb2
+        weight: 1
+      - path: Wii_Skin_root_rex/Wii_Skin_hip/Wii_Skin_spine/Wii_Skin_spine1/Wii_Skin_spine2/Wii_Skin_R_shoulder/Wii_Skin_R_link_rotation/Wii_Skin_R_upperarm/Wii_Skin_R_forearm/Wii_Skin_R_hand/Wii_Skin_R_thumb1/Wii_Skin_R_thumb2/Wii_Skin_R_thumb3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
