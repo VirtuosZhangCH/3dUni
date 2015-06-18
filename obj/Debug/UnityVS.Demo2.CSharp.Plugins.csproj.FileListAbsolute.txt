@@ -1,0 +1,11 @@
+D:\Old_D\unity3d\Demo2\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Old_D\unity3d\Demo2\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Old_D\unity3d\Demo2\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Old_D\unity3d\Demo2\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Old_D\unity3d\Demo2\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Old_D\unity3d\Demo2\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Old_D\unity3d\Demo2\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Old_D\unity3d\Demo2\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Old_D\unity3d\Demo2\obj\Debug\UnityVS.Demo2.CSharp.Plugins.csprojResolveAssemblyReference.cache
+D:\Old_D\unity3d\Demo2\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Old_D\unity3d\Demo2\obj\Debug\Assembly-CSharp-firstpass.pdb
