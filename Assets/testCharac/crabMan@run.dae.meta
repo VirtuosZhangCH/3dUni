@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 6b8ad5d360a82ec46bb11dda0003d4a2
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Arm_Rotation_body_L
+    100002: Arm_Rotation_body_R
+    100004: //RootNode
+    100006: head_rotation
+    100008: NG_Skin
+    100010: NG_Skin_carapace
+    100012: NG_Skin_CrabMan
+    100014: NG_Skin_head
+    100016: NG_Skin_hip
+    100018: NG_Skin_L_ankle
+    100020: NG_Skin_L_arm
+    100022: NG_Skin_L_forefinger1
+    100024: NG_Skin_L_hand
+    100026: NG_Skin_L_leg
+    100028: NG_Skin_L_shoulder
+    100030: NG_Skin_L_upperarm
+    100032: NG_Skin_L_upperleg
+    100034: NG_Skin_neck
+    100036: NG_Skin_R_ankle
+    100038: NG_Skin_R_arm
+    100040: NG_Skin_R_forefinger1
+    100042: NG_Skin_R_hand
+    100044: NG_Skin_R_leg
+    100046: NG_Skin_R_shoulder
+    100048: NG_Skin_R_upperarm
+    100050: NG_Skin_R_upperleg
+    100052: NG_Skin_root_CrabMan
+    100054: NG_Skin_spine
+    100056: NG_Skin_spine01
+    400000: Arm_Rotation_body_L
+    400002: Arm_Rotation_body_R
+    400004: //RootNode
+    400006: head_rotation
+    400008: NG_Skin
+    400010: NG_Skin_carapace
+    400012: NG_Skin_CrabMan
+    400014: NG_Skin_head
+    400016: NG_Skin_hip
+    400018: NG_Skin_L_ankle
+    400020: NG_Skin_L_arm
+    400022: NG_Skin_L_forefinger1
+    400024: NG_Skin_L_hand
+    400026: NG_Skin_L_leg
+    400028: NG_Skin_L_shoulder
+    400030: NG_Skin_L_upperarm
+    400032: NG_Skin_L_upperleg
+    400034: NG_Skin_neck
+    400036: NG_Skin_R_ankle
+    400038: NG_Skin_R_arm
+    400040: NG_Skin_R_forefinger1
+    400042: NG_Skin_R_hand
+    400044: NG_Skin_R_leg
+    400046: NG_Skin_R_shoulder
+    400048: NG_Skin_R_upperarm
+    400050: NG_Skin_R_upperleg
+    400052: NG_Skin_root_CrabMan
+    400054: NG_Skin_spine
+    400056: NG_Skin_spine01
+    4300000: NG_Skin_CrabMan
+    7400000: run
+    9500000: //RootNode
+    13700000: NG_Skin_CrabMan
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: NewEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: NG_Skin
+        weight: 1
+      - path: NG_Skin_CrabMan
+        weight: 1
+      - path: NG_Skin_root_CrabMan
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/Arm_Rotation_body_L
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/Arm_Rotation_body_R
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/head_rotation
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_carapace
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_L_upperleg
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_L_upperleg/NG_Skin_L_leg
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_L_upperleg/NG_Skin_L_leg/NG_Skin_L_ankle
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_R_upperleg
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_R_upperleg/NG_Skin_R_leg
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_R_upperleg/NG_Skin_R_leg/NG_Skin_R_ankle
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_spine
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_spine/NG_Skin_spine01
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_spine/NG_Skin_spine01/NG_Skin_L_shoulder
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_spine/NG_Skin_spine01/NG_Skin_L_shoulder/NG_Skin_L_upperarm
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_spine/NG_Skin_spine01/NG_Skin_L_shoulder/NG_Skin_L_upperarm/NG_Skin_L_arm
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_spine/NG_Skin_spine01/NG_Skin_L_shoulder/NG_Skin_L_upperarm/NG_Skin_L_arm/NG_Skin_L_hand
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_spine/NG_Skin_spine01/NG_Skin_L_shoulder/NG_Skin_L_upperarm/NG_Skin_L_arm/NG_Skin_L_hand/NG_Skin_L_forefinger1
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_spine/NG_Skin_spine01/NG_Skin_neck
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_spine/NG_Skin_spine01/NG_Skin_neck/NG_Skin_head
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_spine/NG_Skin_spine01/NG_Skin_R_shoulder
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_spine/NG_Skin_spine01/NG_Skin_R_shoulder/NG_Skin_R_upperarm
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_spine/NG_Skin_spine01/NG_Skin_R_shoulder/NG_Skin_R_upperarm/NG_Skin_R_arm
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_spine/NG_Skin_spine01/NG_Skin_R_shoulder/NG_Skin_R_upperarm/NG_Skin_R_arm/NG_Skin_R_hand
+        weight: 1
+      - path: NG_Skin_root_CrabMan/NG_Skin_hip/NG_Skin_spine/NG_Skin_spine01/NG_Skin_R_shoulder/NG_Skin_R_upperarm/NG_Skin_R_arm/NG_Skin_R_hand/NG_Skin_R_forefinger1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
